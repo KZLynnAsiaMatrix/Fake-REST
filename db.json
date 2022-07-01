@@ -1,0 +1,24 @@
+{
+    "data": {
+        "data": [
+            {
+                "id": 1,
+                "name": "Kyaw",
+                "username": "kyawzlinn",
+                "email": "kzl@mail.com"
+            },
+            {
+                "id": 2,
+                "name": "Sai",
+                "username": "zai",
+                "email": "sai@mail.com"
+            },
+            {
+                "id": 3,
+                "name": "Zaw",
+                "username": "zzz",
+                "email": "zzz@mail.com"
+            }
+        ]
+    }
+}
